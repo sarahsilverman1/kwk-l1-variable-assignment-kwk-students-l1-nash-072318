@@ -1,4 +1,7 @@
 tags:
+vari = greeting
+puts "Hello World"
+
   - variable assignment
   - variables
 languages:
